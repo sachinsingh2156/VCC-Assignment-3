@@ -15,6 +15,8 @@ This project demonstrates a resource monitoring system running on a local VM. It
 - **VMware/VirtualBox** to create a local VM.
 - **Linux-based Operating System** for the VM (Debian 11 recommended).
 
+## Architecture Diagram
+![architectureAssignment3](https://github.com/user-attachments/assets/4f3e3af4-1330-488b-9e9e-b7313ea91574)
 
 ## Getting Started
 
